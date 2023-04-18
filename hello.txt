@@ -1,0 +1,10 @@
+git is  a version contral program 
+It is the first time I use it,
+and it is the first time use Centos to learn git.
+I am exciting!
+esc is end 
+and i is enting writing model.
+2023-04-18
+I will quit and save, then I will enter again
+
+ " :" is contrall the txt
