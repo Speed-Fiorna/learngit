@@ -7,4 +7,12 @@ and i is enting writing model.
 2023-04-18
 I will quit and save, then I will enter again
 
+
  " :" is contrall the txt
+
+
+2023-04-18-21:11:00
+
+now I will change this file.
+What will happen?
+Let's go!
